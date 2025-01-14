@@ -17,3 +17,15 @@ DjangoCRM is a Customer Relationship Management (CRM) system built with Django. 
 
    ```bash
    git clone https://github.com/PragalvhaSharma/DjangoCRM.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd DjangoCRM
+
+2. Set up virtual env
+    ```bash
+   python3 -m venv venv
+   source venv/bin/activate   # For Linux/macOS
+   venv\Scripts\activate      # For Windows
+
+
