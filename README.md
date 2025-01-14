@@ -1,6 +1,3 @@
-Here’s a sample README file you can use for your DjangoCRM repository:
-
----
 
 # DjangoCRM
 
