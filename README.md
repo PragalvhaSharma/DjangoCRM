@@ -10,3 +10,10 @@ DjangoCRM is a Customer Relationship Management (CRM) system built with Django. 
 
 ## Project Structure
 
+
+## Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/PragalvhaSharma/DjangoCRM.git
